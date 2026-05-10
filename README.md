@@ -62,3 +62,7 @@ git add .
 git commit -m "Update calculator"
 git push
 ```
+
+## Download
+
+- [Download Calculator.exe (Windows)](https://github.com/lhereisemptyl/calculator-app/releases/download/v1.0.0/Calculator.exe)
